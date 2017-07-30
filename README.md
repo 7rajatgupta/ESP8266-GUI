@@ -8,7 +8,7 @@ This project provides a new way to easily configure your ESP8266 WiFi chip, and 
 
 ## Usage
 
-1. Upload the code to your board
+* Upload the code to your board
 * Open the Serial monitor to get the IP of the board
 * Connect to the WiFi network called **esp8266-setup** with your computer
 * Navigate to the IP with your web browser
